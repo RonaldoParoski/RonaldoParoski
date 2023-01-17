@@ -3,6 +3,7 @@
 Esta é uma linha de código em HTML.
 ~~~
 
+https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
 
 **RonaldoParoski/RonaldoParoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

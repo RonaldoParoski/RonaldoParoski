@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatimeRonaldoParoski=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white

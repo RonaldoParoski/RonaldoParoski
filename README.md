@@ -2,6 +2,7 @@
 ~~~html
 Esta é uma linha de código em HTML.
 ~~~
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white)}" />
 
 https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white
 

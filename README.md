@@ -21,7 +21,6 @@
 
 Resultado, é a soma de pequenos esforços repetidos a cada dia 💪.
 
-<br/>
 
 ## No momento estudando sobre AWS e cursando uma Pós em Segurança da Informação.
 

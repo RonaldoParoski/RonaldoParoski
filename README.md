@@ -5,7 +5,9 @@
 
 
 ![Ronaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoparoski&show_icons=true&theme=dracula)
-
+<div>
+     <img height="188em" src="https://github-readme-stats-mu-one-70.vercel.app/api/top-langs/?username=ronaldoparoski&layout=compact&theme=nord" />
+</div>
 
 ## Tecnologias já experimentadas
 <div style="display: inline_block"><br/>

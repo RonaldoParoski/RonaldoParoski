@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-paroski-432144119)
 [![Linkendin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ronaldoparoski)
 
-https://learn.microsoft.com/azure/load-balancer/load-balancer-overview
 
 ![Ronaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoparoski&show_icons=true&theme=dracula)
 <div>
